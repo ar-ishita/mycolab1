@@ -1,4 +1,8 @@
 Another user made a change  at 3:52 P.M
 Another user made a change at 4:54 P.M
+<<<<<<< HEAD
 Another user made a local change at 5:45 P.M
 
+=======
+Another user made a change  at 5:52 P.M
+>>>>>>> a72e014560ff6027e8b28776b6b9fe035228e7b9
